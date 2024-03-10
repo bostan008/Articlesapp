@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Articles app</string>
+    <string name="image_description">"Image "</string>
+    <string name="label_search">Search...</string>
+</resources>
