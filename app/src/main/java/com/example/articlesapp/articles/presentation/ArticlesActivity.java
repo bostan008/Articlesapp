@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import com.example.articlesapp.articles.ArticlesApplication;
+import com.example.articlesapp.ArticlesApplication;
 import com.example.articlesapp.articles.data.Article;
 import com.example.articlesapp.databinding.ActivityArticlesBinding;
 import com.example.articlesapp.details.presentation.ArticleDetailsActivity;
